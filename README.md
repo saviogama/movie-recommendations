@@ -1,5 +1,5 @@
-# 30 day movie API
-Secure API that uses the TMDB API and OpenAI to query and recommend movies.
+# Movie recommendations
+Simple API that uses the TMDB API and OpenAI to query and recommend movies.
 
 ## Tech
 - [Node.js](https://nodejs.org)
